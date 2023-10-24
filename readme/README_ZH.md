@@ -206,7 +206,7 @@ screen -S miner
 # Press 'Ctrl-A' followed by 'D' to detach the screen session.
 ```
 ### Configuration Reminder
-Before starting the miner, don't forget to configure your account address in the `config.conf` file. The default account address is set to `0x24691e54afafe2416a8252097c9ca67557271475`. Please replace it with your own account address to receive mining rewards.
+Before starting the miner, don't forget to configure your account address in the `config.conf` file. The default account address is set to `0x9A224cA7683943A18Cb7067a0095a1480EAcC4bc`. Please replace it with your own account address to receive mining rewards.
 
 Here’s how the `config.conf` file will look:
 
